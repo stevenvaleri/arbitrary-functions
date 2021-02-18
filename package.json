@@ -1,0 +1,29 @@
+{
+  "name": "arbitrary-functions",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "hardhat test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stevenvaleri/arbitrary-functions.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/stevenvaleri/arbitrary-functions/issues"
+  },
+  "homepage": "https://github.com/stevenvaleri/arbitrary-functions#readme",
+  "dependencies": {
+    "@nomiclabs/hardhat-waffle": "^2.0.1",
+    "ethers": "^5.0.31"
+  },
+  "devDependencies": {
+    "@nomiclabs/hardhat-ethers": "^2.0.1",
+    "chai": "^4.3.0",
+    "ethereum-waffle": "^3.2.2",
+    "hardhat": "^2.0.10"
+  }
+}
